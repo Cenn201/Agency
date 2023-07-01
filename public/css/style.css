@@ -344,7 +344,7 @@ br {
   padding-left: 20px;
 }
 .Other-Module-5 {
-  background-image: url(Other-Module.png);
+  background-image: url(/public/images/Other-Module.png);
   width: 600px;
   height: 181px;
   background-size: cover;
@@ -575,7 +575,7 @@ br {
 .Call-To-Action-1 {
   width: 600px;
   height: 229px;
-  background-image: url(/Cta-Bg-Image.png);
+  background-image: url(/public/images/Cta-Bg-Image.png);
 }
 .Call-To-Action {
   width: 520px;
